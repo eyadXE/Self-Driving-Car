@@ -3,7 +3,8 @@
 A self-driving car simulation using behavioral cloning with PyTorch. The system receives images from the **Udacity Self-Driving Car Simulator**, predicts steering angles in real time, and controls the vehicle via a Flask + SocketIO backend server. The model is based on **NVIDIA's end-to-end CNN architecture** for autonomous driving.
 
 ---
-
+## DEMO
+![Demo](DEMO.gif)
 ## 📐 Model Architecture (NVIDIA CNN)
 
 Input: **66×200 RGB image** → Output: **Steering angle (continuous value)**
