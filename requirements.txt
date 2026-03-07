@@ -1,0 +1,17 @@
+flask
+opencv-contrib-python
+numpy
+matplotlib
+python-socketio==4.6.1
+Flask
+eventlet
+python-engineio==3.13.2
+fastapi>=0.104
+uvicorn[standard]>=0.23
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2  # optional if you use audio, can omit if not needed
+pillow>=10
+python-multipart>=0.0.6
+streamlit>=1.50
+requests>=2.32
